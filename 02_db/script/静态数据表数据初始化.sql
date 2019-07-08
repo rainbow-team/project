@@ -56,7 +56,7 @@ INSERT INTO config_fac_permit_situation(id,`value`,`order`) VALUES (uuid(),"厂�
 -- ----------------------------
 -- 12-核设施定期报告类别
 -- ----------------------------
-INSERT INTO config_periodical_report_type(id,`value`,`order`) VALUES (uuid(),"月度报告","0"),(uuid(),'季度报告','1'),(uuid(),'年度报告','2');
+INSERT INTO config_fac_report_type(id,`value`,`order`) VALUES (uuid(),"月度报告","0"),(uuid(),'季度报告','1'),(uuid(),'年度报告','2');
 
 -- ----------------------------
 -- 13-铀尾矿(渣)库等别

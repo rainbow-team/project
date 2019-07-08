@@ -26,7 +26,7 @@
  truncate TABLE config_monitor_daily_file_type;
  truncate TABLE config_monitor_report_type;
  truncate TABLE config_operator_license_type;
- truncate TABLE config_periodical_report_type;
+ truncate TABLE config_fac_report_type;
  truncate TABLE config_political;
  truncate TABLE config_review_status;
  truncate TABLE config_security_check_type;
